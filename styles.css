@@ -311,7 +311,7 @@ nav {
     width: 3.5rem;
     height: 2px;
     background-color: var(--color-secondary);
-    transform: translateX(-150%);
+    transform: translateX(-50%);
 }
 
 .about {
@@ -640,7 +640,7 @@ background: linear-gradient(to right
 }
 
 .embed {
-    width: 95%;
+    width: 85%;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -904,9 +904,9 @@ background: linear-gradient(to right
 }
 
 
-.check {
+/* .check {
     display: inline-block;
-}
+} */
 
 /* INTRO SECTION */
  .intro-content {
